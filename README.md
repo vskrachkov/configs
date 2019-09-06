@@ -15,4 +15,4 @@ For getting link to file use this `https://raw.githubusercontent.com/vskrachkov/
 #### _Example_:
 Download only a tmux configuration file.
 
-    ` wget https://raw.githubusercontent.com/vskrachkov/configs/master/tmux.conf`
+    wget https://raw.githubusercontent.com/vskrachkov/configs/master/tmux.conf
